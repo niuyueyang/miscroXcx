@@ -1,0 +1,4 @@
+<view class="inner">
+  我是child1--{{name}}--{{type}}
+  <button bindtap="onTap" data-name="{{ name }}" data-type="{{ type }}">获取数据详情：{{ selectedType }}，{{ selectedName }}</button>
+</view>

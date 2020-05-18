@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <van-button type="primary">主要按钮</van-button>
+  <index-child1 name="child-name" type="child-type"></index-child1>
+  <index-child2 innerText="child2"></index-child2>
+  <van-button type="primary" bindtap="fnPost">请求数据</van-button>
+</view>
