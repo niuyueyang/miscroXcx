@@ -17,7 +17,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.11.0",
-	"appid": "wx1dadae0154b300f1",
+	"appid": "",
 	"projectname": "vant",
 	"debugOptions": {
 		"hidedInDevtools": []
